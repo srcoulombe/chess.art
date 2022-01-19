@@ -1,0 +1,7 @@
+anvil 
+anvil-uplink
+pip install anvil-app-server
+chess
+matplotlib
+numpy
+PIL
